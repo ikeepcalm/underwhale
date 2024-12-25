@@ -1,0 +1,47 @@
+.root {
+    -fx-background-color: black;
+}
+
+.dialog-pane {
+    -fx-background-color: black;
+    -fx-background-radius: 8;
+    -fx-background-insets: 0;
+    -fx-border-color: white;
+    -fx-border-width: 5px;
+    -fx-padding: 20;
+}
+
+.dialog-text {
+    -fx-font-size: 40;
+    -fx-fill: white;
+}
+
+.intro-text {
+    -fx-font-size: 20;
+    -fx-fill: white;
+}
+
+.start-button {
+    -fx-font-size: 20;
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-border-color: white;
+    -fx-border-width: 2;
+    -fx-border-radius: 5;
+    -fx-padding: 5 10;
+}
+
+.start-button:hover {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+.start-button:pressed {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.score-text {
+    -fx-font-size: 20;
+    -fx-fill: white;
+}
