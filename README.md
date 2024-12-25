@@ -9,12 +9,12 @@ Undertale-alike mini-game made using FXGL, implementing simple mini-game with Fl
 ---
 
 ## Game menu (generated using AI)
-![](https://github.com/ikeepcalm/underwhale/blob/main/menu.png)
+![](https://github.com/ikeepcalm/underwhale/blob/master/menu.png)
 
 ---
 
 ## Gameplay preview (dialogue with Flowey)
-![](https://github.com/ikeepcalm/underwhale/blob/main/flowey.gif)
+![](https://github.com/ikeepcalm/underwhale/blob/master/flowey.gif)
 
 ---
 \* is using some kind of minimax algorithm to make decisions in order to outplay player
