@@ -18,3 +18,5 @@ Undertale-alike mini-game made using FXGL, implementing simple mini-game with Fl
 
 ---
 \* is using some kind of minimax algorithm to make decisions in order to outplay player
+
+...
